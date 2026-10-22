@@ -75,7 +75,7 @@ export const experiences = [
     id: 1,
     company: "Synoris",
     role: "Software Development Intern",
-    date: "Jun 2026 - Present",
+    date: "Jun 2026 - Aug 2026",
     image: "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?q=80&w=2070&auto=format&fit=crop"
   },
   {
