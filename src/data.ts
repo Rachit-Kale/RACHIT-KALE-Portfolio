@@ -8,8 +8,8 @@ export const projects = [
     tags: ["Real Project"],
     description: "A serene, calming landing page designed for a mental health and wellness application. Focuses on accessibility, soft colors, and clear calls to action to encourage users to seek help or explore wellness resources.",
     technologies: ["React", "Tailwind CSS", "Framer Motion", "Vite"],
-    liveLink: "https://example.com/bloomcare",
-    githubLink: "https://github.com/example/bloomcare",
+    liveLink: "https://github.com/Rachit-Kale",
+    githubLink: "https://github.com/Rachit-Kale",
   },
   {
     id: 2,
@@ -20,8 +20,8 @@ export const projects = [
     tags: ["Real Project"],
     description: "An elegant and premium e-commerce landing page for a luxury fragrance brand. Features smooth scroll animations, high-resolution imagery, and a refined typography scale to communicate exclusivity and quality.",
     technologies: ["Next.js", "Tailwind CSS", "GSAP", "Shopify API"],
-    liveLink: "https://example.com/fragwater",
-    githubLink: "https://github.com/example/fragwater",
+    liveLink: "https://github.com/Rachit-Kale",
+    githubLink: "https://github.com/Rachit-Kale",
   },
   {
     id: 3,
@@ -32,8 +32,8 @@ export const projects = [
     tags: ["Exploration"],
     description: "A clean, data-dense dashboard concept designed to make crypto investing feel approachable and secure. Incorporates real-time charts, portfolio summaries, and simple trade execution flows without overwhelming the user.",
     technologies: ["React", "Recharts", "Tailwind CSS", "TypeScript"],
-    liveLink: "https://example.com/cryptocalm",
-    githubLink: "https://github.com/example/cryptocalm",
+    liveLink: "https://github.com/Rachit-Kale",
+    githubLink: "https://github.com/Rachit-Kale",
   },
   {
     id: 4,
@@ -44,8 +44,8 @@ export const projects = [
     tags: ["Real Project"],
     description: "An AI-powered personal finance tracker that auto-categorizes transactions, predicts monthly spending, and offers intelligent budget recommendations. Designed with a mobile-first approach for daily quick logging.",
     technologies: ["React Native", "Expo", "Node.js", "OpenAI API"],
-    liveLink: "https://example.com/spenso",
-    githubLink: "https://github.com/example/spenso",
+    liveLink: "https://github.com/Rachit-Kale",
+    githubLink: "https://github.com/Rachit-Kale",
   }
 ];
 
@@ -76,14 +76,14 @@ export const experiences = [
     company: "Synoris",
     role: "Software Development Intern",
     date: "Jun 2026 - Aug 2026",
-    image: "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?q=80&w=2070&auto=format&fit=crop"
+    image: "https://media.licdn.com/dms/image/v2/D4D0BAQFMtwM-VbletA/company-logo_400_400/company-logo_400_400/0/1722432545031/synoris_information_systems_pvt_ltd_logo?e=2147483647&v=beta&t=ee480Om2-Zmm5xmsCzW8FOS9TBEzHLATTqAdmGFUrPU&auto=format&fit=crop"
   },
   {
     id: 2,
     company: "KJSSE",
     role: "Software Development Intern",
     date: "Jan 2026 - Apr 2026",
-    image: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=2070&auto=format&fit=crop"
+    image: "https://kjsce.somaiya.edu/assets/kjsce/img/newlogo/kjsce-formerly.svg?q=80&w=2070&auto=format&fit=crop"
   }
 ];
 
